@@ -12,6 +12,6 @@ func main() {
 	fmt.Println("123 feature update 444")
 	fmt.Println("code learn update")
 	fmt.Println("create")
-	fmt.Println("delete")
+	fmt.Println("delete double")
 
 }
